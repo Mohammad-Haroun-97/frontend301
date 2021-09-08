@@ -1,1 +1,2 @@
-aloooooooooooooooooooooooo
+// aloooooooooooooooooooooooosdsdasd
+import react from 'react'
